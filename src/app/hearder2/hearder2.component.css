@@ -1,0 +1,13 @@
+.nav2{
+    width: 25%;
+    min-height: 70px;
+    background-color: white;
+    margin: 20px auto;
+    margin-top:40px;
+}
+
+.nav2 .box{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}

@@ -1,0 +1,32 @@
+.nav3{
+    width: 90%;
+    min-height: 100px;
+    /* background-color: rgb(184, 19, 19); */
+    margin: 10px auto;
+    margin-top:0px;
+  }
+  .nav3 .box{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+  .select{
+    width: 100px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(226, 223, 223);
+    color: black;
+    border-radius:5px;
+    border: 1px solid rgb(46, 45, 45);
+    margin-left: 15px;
+    height: 35px;
+}
+
+.custom-select {
+    border: none;          /* Supprime la bordure */
+    outline: none;         /* Supprime le contour de focus par défaut */
+    background: transparent; /* Optionnel : rend le fond transparent pour une apparence plus épurée */
+}
+ 

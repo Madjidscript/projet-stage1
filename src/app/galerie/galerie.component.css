@@ -1,6 +1,7 @@
 .gallery {
     display: grid;
     grid-gap: 10px;
+    padding: 5px;
   
     /* fill the page's width with columns, each having from about 200 to 400 px */
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
